@@ -2,7 +2,7 @@ package javaapp;
 
 public class Test {
 	
-   public static void main(String arg[]) {
+   public static void Main(String arg[]) {
 	   System.out.println("Hello");
 	
 }
